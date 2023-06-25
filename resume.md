@@ -4,103 +4,87 @@ title: Resumé
 tags: resume
 permalink: /resume/
 ---
-# Jonathon Belotti
+# Sawan Patel
 
 <div id="webaddress">
-<a href="mailto:jonathon.bel.melbourne@gmail.com">jonathon.bel.melbourne@gmail.com</a>
+<a href="mailto:sawanp.813@gmail.com">sawanp.813@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/thundergolfer">thundergolfer</a>
-|
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/jonobelotti_IO">jonobelotti_IO</a>
+<i class="fa fa-github"></i> <a href="http://github.com/sawanp813">sawanp813</a>
 </div>
 
 
 ## Experience
 
-`2017-`
-__Data Engineering Intern, Zendesk__ Work alongside the data science team on the machine learning driven Automatic Answers and Satisfaction Prediction products.
+`2023-`
+__Machine Learning Researcher/Intern, Probabalistic Machine Learning Group, University of Michigan__ Developed an amortized variational intference model for cataloging deep space astronomical images trained on simulated multi-bandpass images.
 
-`2016`
-__Web Developer, RMIT Melbourne__ Integrated xAPI into existing RMIT web tools, and worked on changing student’s relationship with their learning data.
+`2020`
+__Researcher, Laboratory of Computational Neurophysiology__ Created a model of spatial navigation to contextualize the discovery of bidirectional head direction cells in the rodent retrosplenial cortex. Publication pending.
 
-`2016`
-__Research Assistant, RMIT Melbourne__ Used Machine Learning and NLP libraries to predict language acquisition in second language learners.
-
-__Tutor (Computer Science), Indigenous Tutorial Assistance Scheme__ Tutor students in algorithm design and analysis, database concepts, and software engineering fundamentals.
+`2019`
+__Research Assistant, Laboratory of Neural Development & Intellectual Disorders__ Assisted PhD students with diagnostic methods for better understanding rodent models of down syndrome. Techniques include PCR, immunohistochemistry, confocal microscopy and cell counting.
 
 ## Education
 
-`2015-`
-__Bachelor of Software Engineering, RMIT Melbourne__
+`2022-23`
+__Master of Science in Computer Science & Engineering, University of Michigan__
 
-***GPA 3.9:***  100 - Web Programming, 97 - Soft. Eng. Fundamentals, 93 - Data Comm, 89 - Discrete Math
+***GPA 3.91:*** A - Natural Language Processing, A - Foundations of Artificial Intelligence, A - GPU Programming, A - Database Management Systems, A - Web Development
 
-`2011-13`
-__Bachelor of Environments (Architecture), University of Melbourne__
+`2018-2022`
+__Bachelor of Arts in Neuroscience (Minor in Computer Science), Boston University__
 
-`2007-10`
-__Melbourne High School__ 95.80 / 100 ATAR
+***GPA 3.88:*** Magna Cum Laude; A - Machine Learning, A - Introduction to Data Science, A- - Discrete Math, A - Algorithms, A - Data Structures
 
 ## University Leadership & Involvement
 
-`2016-`
-__President, Computer Science & IT Society__ Rebranded the club, completed its website and have set up new student engagement initiatives.
+`2020-2022`
+__President, Hindu Students Council__ Organized several cultural events on-campus for as many as 2,500 attendees at once. Raised a total revenue of $51,000 in '21-'22. Organized several charitable efforts serving the Boston community in association with Engineers Without Borders and Overseas Volunteers for a Better India.
 
 `2014-15`
-__Lead Investment & IT Officer, Foresight Investment__ With over $50,000 AUM the group generated annualised returns of greater than 11% while the ASX200 went down.
+__Writer & Editor, The Nerve Journal__ Wrote a published article describing the effects of solitary confinement on the cognitive abilities of inmates. Edited several other published articles.
 
 `2016-`
-__Founder & Vice President - RMIT Programming Club__ Setup club’s communication channels.branding, and website. Created leadership group and now run meetings biweekly
+__Member - Mind & Brain Society__ Taught basic neuroscience concepts to underpriviledged youth at the Roxbury Community Center to foster a better understanding of the human brain and to expose the subject to the children for future inspiration.
 
 ## Projects
 
-### Insults
+### COVID-19 vs Viral/Bacterial Pneumonia Classification
 
-Uses Machine Learning to detect if online comments are insulting or derogatory. In the spirit of Google’s Perspective Project.
+Study, experiment with and develop several neural architectures and their performance on a supervised classification problem involving patient chest x-rays where models were trained to 'diagnose' patients. Architectures explored involved VGG-16, ResNet and DenseNet.
 
-### aimacode/aima-(java|python)
-Implemented the HITS (python and java) algorithm and CYK Parsing algorithm (java).
+### Multivariate Normal Parameter Estimation
+Use the expectation-maximization algorithm to estimate the parameters of a multivariate normal distribution only given a set of data generated from the distribution. Performance was compared to a simple maximum-likelihood estimation method.
 
-### sudkamp-langs-machines=(java|python)
+### Google clone
 
-Implementing computing theory algorithms from Sudkamp’s Languages and Machines textbook in Python and Java.
+A search engine web application that utilizes PageRank, and tf-idf to evaluate the relevance of pages stored in an index to user queries. Computation was performed via Hadoop (distributed computing) on an inverted index, processed through a Flask application and returned to a server-side dynamic front-end with interactive capabilities.
 
 __* Please see my Github profile for other projects and pull-request contributions.__
 
 ## Awards
 
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
+Harold C. Case Scholarship, Boston University
 
-MRC Full postgraduate scholarship (MSc fees + stipend)
-
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
-
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
+Kilachand Honors College Graduate, Boston University
 
 ## Technical
 
-* **Python**
-* **Ruby**
+* **Python**, PyTorch, NumPy, Matplotlib, Flask, AstroPy, etc.
+* **C/C++**
 * **Java**
+* **SQL**
 * Git
+* Machine Learning
+* Database Management
 * Web Applications & APIs
-* Data Engineering
-* Algorithm Design
 * Scripting
-
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:jbelotti@zendesk.com">jbelotti@zendesk.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/thundergolfer">thundergolfer</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/jonobelotti_IO">jonobelotti_IO</a><br />
+* <i class="fa fa-envelope"></i> <a href="mailto:sawanp.813@gmail.com">sawanp.813@gmail.com</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/sawanp813">sawanp813</a><br />
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2023 -->

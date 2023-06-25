@@ -4,8 +4,11 @@ title: About Me
 permalink: /about/
 tags: about
 flicker: true
-headshot: /images/Screen Shot 2023-06-04 at 5.57.24 PM.png
 ---
+
+<p align="center"> 
+<img width="608" alt="Screen Shot 2023-06-04 at 5 57 24 PM" src="https://github.com/sawanp813/sawanp813.github.io/assets/68625173/336a3979-ecec-42e9-b73e-edfafa329800">
+</p>
 
 Hey! I'm a probabalistic machine learning researcher and aspiring data scientist in the fields of biology and medicine. My motivation is to leverage both deterministic and probabilistic methods to better understand the human body and develop treatments for diseases and illnesses that are as of yet untreatable. I am also passionate about the _intersection_ of neuroscience, computer vision and robotics and actively read the latest developments pertaining to our understanding of sight. 
 

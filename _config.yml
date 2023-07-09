@@ -77,10 +77,10 @@ share_facebook: False
 share_twitter: False
 share_googleplus: False
 share_linkedin: True
-share_digg: false
-share_tumblr: false
+share_digg: False
+share_tumblr: False
 share_reddit: False
-share_stumbleupon: false
+share_stumbleupon: False
 share_hackernews: False
 
 text:

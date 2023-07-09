@@ -74,6 +74,7 @@ Kilachand Honors College Graduate, Boston University
 * **C/C++**
 * **Java**
 * **SQL**
+* **MATLAB**
 * Git
 * Machine Learning
 * Database Management
@@ -87,4 +88,4 @@ Kilachand Honors College Graduate, Boston University
 
 <!-- ### Footer
 
-Last updated: June 2023 -->
+Last updated: July 2023 -->

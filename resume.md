@@ -69,7 +69,7 @@ Kilachand Honors College Graduate, Boston University
 
 ## Technical
 
-* **Python**, PyTorch, NumPy, Matplotlib, Flask, AstroPy, etc.
+* **Python**, PyTorch, NumPy, Matplotlib, Pandas, scikit-learn, Flask, AstroPy, etc.
 * **C/C++**
 * **Java**
 * **SQL**

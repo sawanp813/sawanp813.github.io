@@ -59,7 +59,7 @@ Use the expectation-maximization algorithm to estimate the parameters of a multi
 
 A search engine web application that utilizes PageRank, and tf-idf to evaluate the relevance of pages stored in an index to user queries. Computation was performed via Hadoop (distributed computing) on an inverted index, processed through a Flask application and returned to a server-side dynamic front-end with interactive capabilities.
 
-__* Please see my Github profile for other projects and pull-request contributions.__
+__* Visit my Github profile for other projects and pull-request contributions.__
 
 ## Awards
 

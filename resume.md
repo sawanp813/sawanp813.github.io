@@ -49,14 +49,14 @@ __Member - Mind & Brain Society__ Taught basic neuroscience concepts to underpri
 
 ## Projects
 
-- COVID-19 vs Viral/Bacterial Pneumonia Classification
+### COVID-19 vs Viral/Bacterial Pneumonia Classification
 
 Study, experiment with and develop several neural architectures and their performance on a supervised classification problem involving patient chest x-rays where models were trained to 'diagnose' patients. Architectures explored involved VGG-16, ResNet and DenseNet.
 
-- Multivariate Normal Parameter Estimation
+### Multivariate Normal Parameter Estimation
 Use the expectation-maximization algorithm to estimate the parameters of a multivariate normal distribution only given a set of data generated from the distribution. Performance was compared to a simple maximum-likelihood estimation method.
 
-- Google clone
+### Google clone
 
 A search engine web application that utilizes PageRank, and tf-idf to evaluate the relevance of pages stored in an index to user queries. Computation was performed via Hadoop (distributed computing) on an inverted index, processed through a Flask application and returned to a server-side dynamic front-end with interactive capabilities.
 

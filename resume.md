@@ -16,7 +16,7 @@ permalink: /resume/
 ## Experience
 
 `2023-`
-__BLISS Machine Learning Researcher/Intern, Probabalistic Machine Learning Group, University of Michigan__ Contributed to the development an amortized variational intference model for cataloging deep space astronomical images trained on simulated multi-bandpass images. Expanded the encoding and simulation of single-band deep-space astronomical images to multi-band images, developed several Gaussian Mixture Model color priors trained on flux data across several surveys to simulate survey-specific synthetic images, made various optimizations to the encoder architecture, statistical prior for catalog generation and more.
+__BLISS Machine Learning Research Intern, Probabalistic Machine Learning Group, University of Michigan__ Contributed to the development an amortized variational intference model for cataloging deep space astronomical images trained on simulated multi-bandpass images. Expanded the encoding and simulation of single-band deep-space astronomical images to multi-band images, developed several Gaussian Mixture Model color priors trained on flux data across several surveys to simulate survey-specific synthetic images, made various optimizations to the encoder architecture, statistical prior for catalog generation and more.
 
 `2020-23`
 __Researcher, Laboratory of Computational Neurophysiology__ Created a model of spatial navigation to contextualize the discovery of bidirectional head direction cells in the rodent retrosplenial cortex. Publication pending.

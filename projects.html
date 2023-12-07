@@ -37,6 +37,12 @@ js:
       <img width="800" align="center" alt="Screen Shot 2023-07-16 at 6.26.01 PM" src="{{ site.url }}/images/Screen Shot 2023-07-16 at 6.26.01 PM.png"> 
       </p>
 </p>
+<h2> Predicting Gene Expression Levels From Chromatin Structure Using Graph Neural Networks </h2>
+<p> Explored the novel HiRes dataset (Liu et al., 2023) to simultaneously profile the transcriptome alongside the 3-D genome. The HiRes dataset contains simultaneously collected Hi-C and scRNA-seq data collected from adult mouse neurons and murine embryonic cells across various time points during development. This project aimed to profile this dataset, learn a latent representation of the contact matrix data and predict gene expression from known gene newtorks from the genomic contact information. Included data preprocessing of the raw data collected from the Gene Expression Omnibus via JuicerTools at a variety of base pair resolutions, learning a lower-dimensional representation of the Hi-C data at the single-cell and population levels (via t-SNE, spectral embedding) and training a graph convolution network and a graph attention network to predict gene expression of gene networks from the associated Hi-C data. </p>
+      <p>
+      <img width="800" align="center" alt="Screen Shot 2023-12-07 at 12.38.23 AM.png" src="{{ site.url }}/images/Screen Shot 2023-12-07 at 12.38.23 AM.png"> 
+      </p>
+Tools include: Pytorch geometric, Hicstraw, GEOparse, Numpy, scikit-learn, etc. See 
 <h2> Multi-class classification of Chest X-Ray Classification (2022) </h2>
 <p>
 Built, trained and tested various deep learning architectures (ResNet, VGG16, DenseNet, etc.) via transfer learning for the purpose of 'diagnosing' patients with either COVID-19, viral pneumonia or bacterial pneumonia based on chest x-rays. Project involved use of TensorFlow and NumPy.

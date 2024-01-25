@@ -62,6 +62,12 @@ A search engine web application that utilizes PageRank, and tf-idf to evaluate t
 
 __* Visit my Github profile for other projects and pull-request contributions.__
 
+## Certifications
+
+** Python for Genomic Data Science - Coursera **
+** Commanad Line Tools for Genomic Data Science (SAMTools, BEDTools, Tuxedo suite) - Coursera **
+** Bioconductor for Genomic Data Science - Coursera **
+
 ## Awards
 
 Harold C. Case Scholarship, Boston University

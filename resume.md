@@ -5,6 +5,7 @@ tags: resume
 permalink: /resume/
 ---
 # Sawan Patel
+Last Updated: 9/1/2023
 
 <div id="webaddress">
 <a href="mailto:sawanp.813@gmail.com">sawanp.813@gmail.com</a>
@@ -29,7 +30,7 @@ __Research Assistant, Laboratory of Neural Development & Intellectual Disorders_
 `2022-23`
 __Master of Science in Computer Science & Engineering, University of Michigan__
 
-***GPA 3.91:*** A - Natural Language Processing, A - Foundations of Artificial Intelligence, A - GPU Programming, A - Database Management Systems, A - Web Development
+***GPA 3.91:*** A - Natural Language Processing, A - Foundations of Artificial Intelligence, A - GPU Programming, A - Database Management Systems, A - Web Systems, A - Machine Learning in Computational Biology, A - Advanced Compilers 
 
 `2018-2022`
 __Bachelor of Arts in Neuroscience (Minor in Computer Science), Boston University__

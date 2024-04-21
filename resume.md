@@ -65,8 +65,9 @@ __* Visit my Github profile for other projects and pull-request contributions.__
 ## Certifications
 
 ** Python for Genomic Data Science - Coursera **
-** Commanad Line Tools for Genomic Data Science (SAMTools, BEDTools, Tuxedo suite) - Coursera **
+** Command Line Tools for Genomic Data Science (SAMTools, BEDTools, Tuxedo suite) - Coursera **
 ** Bioconductor for Genomic Data Science - Coursera **
+** AWS Technical Essentials **
 
 ## Awards
 
@@ -76,10 +77,10 @@ Kilachand Honors College Graduate, Boston University
 
 ## Technical
 
-* **Python**, PyTorch, NumPy, Matplotlib, Pandas, scikit-learn, Flask, AstroPy, etc.
-* **C/C++**
-* **Java**
-* **SQL**
+* **Python**, PyTorch, NumPy, Matplotlib, Pandas, scikit-learn, PySpark, Flask, AstroPy, etc.
+* **C/C++**, CUDA, LLVM
+* **Java**, JDBC
+* **SQL**, DML/DDL, MySQL, RDBMS
 * **MATLAB**
 * Git
 * Machine Learning

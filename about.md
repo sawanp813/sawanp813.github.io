@@ -6,17 +6,14 @@ tags: about
 flicker: true
 ---
 
-<p align="center"> 
-<img width="608" alt="Screen Shot 2023-06-04 at 5 57 24 PM" src="https://github.com/sawanp813/sawanp813.github.io/assets/68625173/336a3979-ecec-42e9-b73e-edfafa329800">
-</p>
 
-I'm a probabalistic machine learning researcher and aspiring data scientist in the fields of biology and medicine. My motivation is to leverage both deterministic and probabilistic methods to better understand the human body and develop treatments for diseases and illnesses that are as of yet untreatable. I am also passionate about the _intersection_ of neuroscience, computer vision and robotics and actively read the latest developments pertaining to our understanding of sight. 
+I was born in Massachusetts and raised in a little town where the biggest attractions are two Walmarts and [a giant milk bottle]('https://www.facebook.com/THEMILKBOTTLE/'). 
 
-I am currently a Master's student at the **University of Michiga**n studying Computer Science & Engineering, though my background is far from limited to this domain. I was previously a student at **Boston University**, where I studied at the [Kilachand Honors College](https://www.bu.edu/khc/) and the College of Arts & Sciences and graduated with a degree in Neuroscience. I additionally minored in computer science and concentrated in mathematics. When not in class, I actively participated in research, spending time at both the _Laboratory of Neural Development & Intellectual Disorders_ and the _Laboratory of Computational Neurophysiology_. At the latter, I completed my Honors Thesis in Neuroscience entitled 'A Systems-Level Model of Spatial Navigation and Memory.' This work is currently under review for publication. Moreover, I also was a member of the Hindu Students Council chapter at Boston University ([BUHSC](https://buhsc.org)), serving on the executive board for three years and as President for one.
+I was raised by several family members, most notably my mother, and was always passionate about finding a career in biology. Finding a cure to any kind of cancer is a heavy goal, but one that I'm driven by. Once I decided I didn't want to go to medical school, I discovered my interest in programming. Taking that in stride with my love for math, I fell into the rabbit hole of machine learning. 
 
-This summer, I am working as an intern and research assistant under the [Bliss](https://github.com/prob-ml/bliss/tree/master) program in association with the _Probabilistic Machine Learning group_ at the University of Michigan, where we are working towards the task of developing an amortized variational inference method for the task of analyzing large-field astronomical images and an associated Python package. 
+And now, I'm using what I've learned to advance drug discovery!
 
-In my personal time, I enjoy music, exercising, cooking, hiking and spending time with my family. I am also a contributor to [**Alien Daydreams**](https://www.aliendaydreams.life/), an artistic collective based in Denver, CO - check it out!
+In my personal time, I enjoy music, exercising, cooking, hiking and spending time with my family. I am also a contributor to [**Alien Daydreams**](https://www.aliendaydreams.life/), an artistic collective based in San Francisco, CA - check it out!
 
 [Resume](https://github.com/sawanp813/sawanp813.github.io/blob/9d865708970dc5f183d90103fb23d452bdfba5ea/Sawan's%20Resume.pdf)
 

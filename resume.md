@@ -11,12 +11,14 @@ Last Updated: 9/1/2023
 <a href="mailto:sawanp.813@gmail.com">sawanp.813@gmail.com</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/sawanp813">sawanp813</a>
+<a href="https://scholar.google.com/citations?user=RN_YFMUAAAAJ&hl=en&oi=sra"> Google Scholar </a>
 </div>
 
 
 ## Experience
-
-`2023-`
+`2024-`
+__Machine Learning Engineer, Atom Bioworks__ Spearheading the de-novo aptamer design program, leveraging diffusion and state-space models. Performing device maintenance, hardware setup, model R&D, training and deployment.
+`2023-2024`
 __BLISS Machine Learning Research Intern, Probabalistic Machine Learning Group, University of Michigan__ Contributed to the development an amortized variational intference model for cataloging deep space astronomical images trained on simulated multi-bandpass images. Expanded the encoding and simulation of single-band deep-space astronomical images to multi-band images, developed several Gaussian Mixture Model color priors trained on flux data across several surveys to simulate survey-specific synthetic images, made various optimizations to the encoder architecture, statistical prior for catalog generation and more.
 
 `2020-23`

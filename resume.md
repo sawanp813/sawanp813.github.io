@@ -11,6 +11,7 @@ Last Updated: 9/1/2023
 <a href="mailto:sawanp.813@gmail.com">sawanp.813@gmail.com</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/sawanp813">sawanp813</a>
+|
 <a href="https://scholar.google.com/citations?user=RN_YFMUAAAAJ&hl=en&oi=sra"> Google Scholar </a>
 </div>
 

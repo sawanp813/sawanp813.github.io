@@ -36,7 +36,7 @@ __Master of Science in Computer Science & Engineering, University of Michigan__
 
 ***GPA 3.91:*** A - Natural Language Processing, A - Foundations of Artificial Intelligence, A - GPU Programming, A - Database Management Systems, A - Web Systems, A - Machine Learning in Computational Biology, A - Advanced Compilers 
 
-`2018-2022`
+`2018-22`
 __Bachelor of Arts in Neuroscience (Minor in Computer Science), Boston University__
 
 ***GPA 3.88:*** Magna Cum Laude; A - Machine Learning, A - Introduction to Data Science, A- - Discrete Math, A - Algorithms, A - Data Structures
@@ -84,13 +84,14 @@ Kilachand Honors College Graduate, Boston University
 * **Python**, PyTorch, NumPy, Matplotlib, Pandas, scikit-learn, PySpark, Flask, AstroPy, etc.
 * **C/C++**, CUDA, LLVM
 * **Java**, JDBC
-* **SQL**, DML/DDL, MySQL, RDBMS
+* **JavaScript**, Node, Express, ReactJS
 * **MATLAB**
-* Git
-* Machine Learning
-* Database Management
-* Web Applications & APIs
-* Scripting
+* **Google Cloud Platform**
+* **Databases**, DML/DDL, MySQL/SQLite3, RDBMS, Indices
+* **Bash**
+* **Bioinformatics**, FastAptamer, ChimeraX, MMSeqs2, 
+* **Database Management**
+* **Web Applications & APIs**
 
 ## Links
 

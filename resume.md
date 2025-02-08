@@ -5,7 +5,7 @@ tags: resume
 permalink: /resume/
 ---
 # Sawan Patel
-Last Updated: 9/1/2023
+Last Updated: 2/8/2025
 
 <div id="webaddress">
 <a href="mailto:sawanp.813@gmail.com">sawanp.813@gmail.com</a>

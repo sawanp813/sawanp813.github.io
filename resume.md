@@ -16,9 +16,9 @@ Last Updated: 2/8/2025
 </div>
 
 ## Publications
-__Path planning for Masked Diffusion Model Sampling__ Performed all RNA-related experiments and model training. <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2502.03540"> [here]</a>
+__Path planning for Masked Diffusion Model Sampling__ Performed all RNA-related experiments and model training. <a href="https://arxiv.org/abs/2502.03540"> [here]</a>
 
-__AptaBLE: A Deep Learning Platform for de-novo Aptamer Generation and SELEX Optimization__ Carried out all benchmarking and generation results. <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.mlsb.io/papers_2024/AptaBLE:_Aptamer_Prediction.pdf"> [here] </a>
+__AptaBLE: A Deep Learning Platform for de-novo Aptamer Generation and SELEX Optimization__ Carried out all benchmarking and generation results. <a href="https://openreview.net/forum?id=y1VLghM9Xa"> [here] </a>
 
 ## Experience
 `2024-`

@@ -7,7 +7,7 @@ flicker: true
 ---
 
 <!-- ![piano](http://sawanp813.github.io/images/piano.png "a title") -->
-<img src="http://sawanp813.github.io/images/piano.png" alt="piano" width="800"/>
+<img src="http://sawanp813.github.io/images/piano.png" alt="piano" width="400" align="center" />
 
 
 I was born in Massachusetts and raised in a little town where the biggest attractions are two super Walmarts and [a giant milk bottle]('https://www.facebook.com/THEMILKBOTTLE/'). 
@@ -19,16 +19,16 @@ And now, I'm using what I've learned to advance drug discovery!
 In my personal time, I enjoy music, exercising, cooking, hiking and spending time with my family. I am also a contributor to [**Alien Daydreams**](https://www.aliendaydreams.life/), an artistic collective based in San Francisco, CA - check it out!
 
 <!-- ![Confocal](http://sawanp813.github.io/images/confocal.png "a title") -->
-<img src="http://sawanp813.github.io/images/confocal.png" alt="confocal" width="800"/>
+<img src="http://sawanp813.github.io/images/confocal.png" alt="confocal" width="400" align="center" />
 
 <!-- ![Drosophila](http://sawanp813.github.io/images/drosophila.JPG "a title") -->
-<img src="http://sawanp813.github.io/images/drosophila.JPG" alt="drosophila" width="800"/>
+<img src="http://sawanp813.github.io/images/drosophila.JPG" alt="drosophila" width="400" align="center" />
 
 <!-- ![Gel](http://sawanp813.github.io/images/gel.png "a title") -->
-<img src="http://sawanp813.github.io/images/gel.png" alt="gel" width="800"/>
+<img src="http://sawanp813.github.io/images/gel.png" alt="gel" width="400" align="center" />
 
 <!-- ![Mouse brain](http://sawanp813.github.io/images/mouse_brain.png "a title") -->
-<img src="http://sawanp813.github.io/images/mouse_brain.png" alt="mouse brain" width="800"/>
+<img src="http://sawanp813.github.io/images/mouse_brain.png" alt="mouse brain" width="400" align="center" />
 
 
 

@@ -6,6 +6,7 @@ tags: about
 flicker: true
 ---
 
+![piano](http://sawanp813.github.io/images/piano.png "a title")
 
 I was born in Massachusetts and raised in a little town where the biggest attractions are two super Walmarts and [a giant milk bottle]('https://www.facebook.com/THEMILKBOTTLE/'). 
 
@@ -13,9 +14,15 @@ I was raised by several family members, most notably my mother, and was always p
 
 And now, I'm using what I've learned to advance drug discovery!
 
-In my personal time, I enjoy playing and listening to music, exercising, cooking, hiking and spending time with my friends and family. I am also a contributor to [**Alien Daydreams**](https://www.aliendaydreams.life/), an artistic collective based in San Francisco, CA - check it out!
+In my personal time, I enjoy music, exercising, cooking, hiking and spending time with my family. I am also a contributor to [**Alien Daydreams**](https://www.aliendaydreams.life/), an artistic collective based in San Francisco, CA - check it out!
 
-[Resume](https://github.com/sawanp813/sawanp813.github.io/blob/9d865708970dc5f183d90103fb23d452bdfba5ea/Sawan's%20Resume.pdf)
+![Confocal](http://sawanp813.github.io/images/confocal.png "a title")
+![Drosophila](http://sawanp813.github.io/images/drosophila.JPG "a title")
+![Gel](http://sawanp813.github.io/images/gel.png "a title")
+![Mouse brain](http://sawanp813.github.io/images/mouse_brain.png "a title")
+
+
+<!-- [Resume](https://github.com/sawanp813/sawanp813.github.io/blob/9d865708970dc5f183d90103fb23d452bdfba5ea/Sawan's%20Resume.pdf) -->
 
 <style>
 .post-header, #talks, #workshops {

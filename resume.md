@@ -45,16 +45,16 @@ __Bachelor of Arts in Neuroscience (Minor in Computer Science), Boston Universit
 
 ***GPA 3.88:*** Magna Cum Laude; A - Machine Learning, A - Introduction to Data Science, A- - Discrete Math, A - Algorithms, A - Data Structures
 
-## University Leadership & Involvement
+## Leadership
 
 `2020-22`
-__President, Hindu Students Council__ Organized several cultural events on-campus for as many as 2,500 attendees at once. Raised a total revenue of $51,000 in '21-'22. Organized several charitable efforts serving the Boston community in association with Engineers Without Borders and Overseas Volunteers for a Better India.
+__President, Hindu Students Council @ BU__ Organized several cultural events on-campus for as many as 2,500 attendees at once. Raised a total revenue of $51,000 in '21-'22. Organized several charitable efforts serving the Boston community in association with Engineers Without Borders and Overseas Volunteers for a Better India.
 
 `2018-20`
-__Writer & Editor, The Nerve Journal__ Wrote a published article describing the effects of solitary confinement on the cognitive abilities of inmates. Edited several other published articles.
+__Writer & Editor, The Nerve Journal @ BU__ Wrote a published article describing the effects of solitary confinement on the cognitive abilities of inmates. Edited several other published articles.
 
 `2018-20`
-__Member - Mind & Brain Society__ Taught basic neuroscience concepts to underpriviledged youth at the Roxbury Community Center to foster a better understanding of the human brain and to expose the subject to the children for future inspiration.
+__Member - Mind & Brain Society @ BU__ Taught basic neuroscience concepts to underpriviledged youth at the Roxbury Community Center to foster a better understanding of the human brain and to expose the subject to the children for future inspiration.
 
 ## Projects
 

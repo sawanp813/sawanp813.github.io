@@ -15,7 +15,7 @@ I was raised by several family members, most notably my mother, and was always p
 
 And now, I'm using what I've learned to advance drug discovery!
 
-In my personal time, I enjoy music, exercising, cooking, hiking and spending time with my family. I am also a contributor to [**Alien Daydreams**](https://www.aliendaydreams.life/), an artistic collective based in San Francisco, CA - check it out!
+In my personal time, I enjoy music, exercising, cooking, hiking and spending time with my family. I also like to keep up with ongoing developments in neuroscience. Though I've been out of the field for a while, I still apply the lessons learned from working on the bench and simulating neural circuits to my current work. Below are some random images I pulled together from back when I did more 'hands-on' science!
 
 <!-- ![Confocal](http://sawanp813.github.io/images/confocal.png "a title") -->
 <img align="center" src="http://sawanp813.github.io/images/confocal.png" alt="confocal" width="400" />

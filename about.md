@@ -7,9 +7,7 @@ flicker: true
 ---
 
 <!-- ![piano](http://sawanp813.github.io/images/piano.png "a title") -->
-<p align="center">
-<img src="http://sawanp813.github.io/images/piano.png" alt="piano" width="500" align="center" />
-</p>
+<img align="center" src="http://sawanp813.github.io/images/piano.png" alt="piano" width="500" />
 
 I was born in Massachusetts and raised in a little town where the biggest attractions are two super Walmarts and [a giant milk bottle]('https://www.facebook.com/THEMILKBOTTLE/'). 
 

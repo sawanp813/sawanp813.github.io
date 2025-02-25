@@ -8,7 +8,6 @@ flicker: true
 
 <!-- ![piano](http://sawanp813.github.io/images/piano.png "a title") -->
 <img align="center" src="http://sawanp813.github.io/images/piano.png" alt="piano" width="500" />
-<small align="center">A view.</small>
 
 I was born in Massachusetts and raised in a little town where the biggest attractions are two super Walmarts and [a giant milk bottle]('https://www.facebook.com/THEMILKBOTTLE/'). 
 
@@ -20,19 +19,14 @@ In my personal time, I enjoy music, exercising, cooking, hiking and spending tim
 
 <!-- ![Confocal](http://sawanp813.github.io/images/confocal.png "a title") -->
 <img align="center" src="http://sawanp813.github.io/images/confocal.png" alt="confocal" width="400" />
-<small align="center">Coronal section of a mouse brain taken on a confocal microscope.</small>
 <!-- ![Drosophila](http://sawanp813.github.io/images/drosophila.JPG "a title") -->
 <img align="center" src="http://sawanp813.github.io/images/drosophila.JPG" alt="drosophila" width="400" />
-<small align="center">Drosophila models.</small>
 
 <!-- ![Gel](http://sawanp813.github.io/images/gel.png "a title") -->
 <img align="center" src="http://sawanp813.github.io/images/gel.png" alt="gel" width="400" />
-<small align="center">Random gel.</small>
 
 <!-- ![Mouse brain](http://sawanp813.github.io/images/mouse_brain.png "a title") -->
 <img align="center" src="http://sawanp813.github.io/images/mouse_brain.png" alt="mouse brain" width="400" />
-<small align="center">Frozen, recombinant Tbr2+ mouse brains before sectioning.</small>
-
 
 
 <!-- [Resume](https://github.com/sawanp813/sawanp813.github.io/blob/9d865708970dc5f183d90103fb23d452bdfba5ea/Sawan's%20Resume.pdf) -->

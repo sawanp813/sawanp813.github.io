@@ -5,7 +5,7 @@ tags: resume
 permalink: /resume/
 ---
 # Sawan Patel
-Last Updated: 2/8/2025
+Last Updated: 5/26/2025
 
 <div id="webaddress">
 <a href="mailto:sawanp.813@gmail.com">sawanp.813@gmail.com</a>
@@ -16,13 +16,15 @@ Last Updated: 2/8/2025
 </div>
 
 ## Publications
+__EvoFlow-RNA: Generating and Representing non-coding RNA with a Language Model__ Executed all experiments in project. <a href="https://www.biorxiv.org/content/10.1101/2025.02.25.639942v4"> [here] </a>
+
 __Path planning for Masked Diffusion Model Sampling__ Performed all RNA-related experiments and model training. <a href="https://arxiv.org/abs/2502.03540"> [here]</a>
 
 __AptaBLE: A Deep Learning Platform for de-novo Aptamer Generation and SELEX Optimization__ Carried out all benchmarking and generation results. <a href="https://openreview.net/forum?id=y1VLghM9Xa"> [here] </a>
 
 ## Experience
 `2024-`
-__Machine Learning Engineer, Atom Bioworks__ Spearheading the de-novo aptamer design program, leveraging diffusion and state-space models. Performing device maintenance, hardware setup, model R&D, training and deployment.
+__Machine Learning Engineer, Atom Bioworks__ Spearheading the machine learning program, leveraging discrete diffusion models for de novo aptamer and mRNA design. Performing device maintenance, hardware setup, model R&D, training and deployment. Presented novel research at NeurIPS and ICLR.
 
 `2023-24`
 __BLISS Machine Learning Research Intern, Probabalistic Machine Learning Group, University of Michigan__ Contributed to the development an amortized variational intference model for cataloging deep space astronomical images trained on simulated multi-bandpass images. Expanded the encoding and simulation of single-band deep-space astronomical images to multi-band images, developed several Gaussian Mixture Model color priors trained on flux data across several surveys to simulate survey-specific synthetic images, made various optimizations to the encoder architecture, statistical prior for catalog generation and more.

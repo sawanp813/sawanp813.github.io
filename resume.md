@@ -81,6 +81,8 @@ __* Visit my Github profile for other projects and pull-request contributions.__
 
 ## Awards
 
+Outstanding Paper Award, DeLTa Workshop, ICLR '25
+
 Harold C. Case Scholarship, Boston University
 
 Kilachand Honors College Graduate, Boston University

@@ -5,22 +5,21 @@ tags: resume
 permalink: /resume/
 ---
 # Sawan Patel
-Last Updated: 5/26/2025
+Last Updated: 3/27/2026
 
-<div id="webaddress">
-<a href="mailto:sawanp.813@gmail.com">sawanp.813@gmail.com</a>
-|
 <i class="fa fa-github"></i> <a href="http://github.com/sawanp813">sawanp813</a>
 |
 <a href="https://scholar.google.com/citations?user=RN_YFMUAAAAJ&hl=en&oi=sra"> Google Scholar </a>
 </div>
 
-## Publications
+## Publications/Preprints
+__Multi-objective-guided generative design of mRNA with therapeutic properties__ Conceived idea and executed all experiments in project. <a href="https://openreview.net/forum?id=Jiv4B97NAn"> </a>
+
 __EvoFlow-RNA: Generating and Representing non-coding RNA with a Language Model__ Executed all experiments in project. <a href="https://www.biorxiv.org/content/10.1101/2025.02.25.639942v4"> [here] </a>
 
 __Path planning for Masked Diffusion Model Sampling__ Performed all RNA-related experiments and model training. <a href="https://arxiv.org/abs/2502.03540"> [here]</a>
 
-__AptaBLE: A Deep Learning Platform for de-novo Aptamer Generation and SELEX Optimization__ Carried out all benchmarking and generation results. <a href="https://openreview.net/forum?id=y1VLghM9Xa"> [here] </a>
+__AptaBLE: A Deep Learning Platform for de-novo Aptamer Generation and SELEX Optimization__ Carried out all benchmarking and generation results. <a href="https://www.biorxiv.org/content/10.64898/2026.01.06.698056v1"> [here] </a>
 
 ## Experience
 `2024-`
@@ -80,6 +79,8 @@ __* Visit my Github profile for other projects and pull-request contributions.__
 ** AWS Technical Essentials **
 
 ## Awards
+
+Seed Grant, Generative and Experimental Perspectives for Biomolecular Design Workshop, ICML '25
 
 Outstanding Paper Award, DeLTa Workshop, ICLR '25
 

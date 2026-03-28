@@ -2,78 +2,22 @@
 layout: default
 tags: home
 ---
-<!-- {% assign posts_count = paginator.posts | size %}
 
-<div class="home">
-  {% if posts_count > 0 %}
-    <div class="posts">
-      {% for post in paginator.posts %}
-        <div class="post py3">
-          <p class="post-meta">{{ post.date | date: site.date_format }}</p>
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
-          <p class="post-summary">
-            {% if post.summary %}
-              {{ post.summary }}
-            {% else %}
-              {{ post.excerpt }}
-            {% endif %}
-          </p>
-        </div>
-      {% endfor %}
-    </div>
-
-    {% include pagination.html %}
-  {% else %}
-    <h1 class='center'>{{ site.text.index.coming_soon }}</h3>
-  {% endif %}
-</div> -->
-
-<!-- <p align="center" >
-<img width="400" alt="Screen Shot 2023-06-17 at 2 58 13 PM" src="{{ site.url }}images/Screen Shot 2023-06-17 at 2.58.13 PM.png">
+<p>
+  <img width="100%" align="center" alt="Headshot" src="{{ site.url }}/images/IMG_4545.jpg"> 
 </p>
- -->
+
+<h2>👋 Hi! </h2> 
+<h3>I'm a machine learning researcher with a focus on biomolecule design and optimization. Currently, I'm designing nucleic acids at Atom Bioworks 🧬.</h3>
+
+<h4>Things I'm passionate about:</h4>
+
+<p>- 📚 Learning. My grandfather, a teacher, would always say that your mind is your best asset. Having the opportunity to develop it is a fundamental right, so I'm keen on open access to learning materials.</p>
+<p>- 🍜 Food security. Nearly 1 billion people across the world face uncertainty when it comes to food availability, including 1 in 5 children in the USA.</p>
+<p>- 👪 My friends and family. Check out <a href="https://sites.google.com/view/diamondsandrust"> Diamonds and Rust </a> and <a href="https://aliendaydreams.life"> Alien Daydreams</a>!</p>
+
+<p>~Sawan</p>
+
 <video align="center" width="100%" height="600" display="block" margin="auto" loop autoplay muted>
 <source src="http://sawanp813.github.io/AtomBioworks_Static_Draft1.mp4" type="video/mp4">
 </video>
-
-<h2>👋 Hey there, I'm Sawan!  </h2> 
-<h3>I'm a machine learning researcher with a focus on biomolecule design and optimization. Currently, I'm helping design novel targeting ligands for lipid nanoparticle delivery at Atom Bioworks 🧬.</h3>
-<!-- <h3>Currently, I'm helping design novel targeting ligands for lipid nanoparticle delivery at Atom Bioworks 🧬.</h3> -->
-
-<h4>When away from my computer, I'm plugging away at a book, practicing the piano, or cooking something new 🍳. </h4>
-<h4>Things I'm passionate about:</h4>
-
-<p>- Learning. My grandfather, a teacher, would always say that your mind is your best asset. Having the opportunity to develop it is a fundamental right, so I'm keen on open access to learning materials.</p>
-<p>- Food security. Nearly 1 billion people across the world face uncertainty when it comes to food availability, including 1 in 5 children in the USA.</p>
-<p>- My friends and family. Check out <a href="https://sites.google.com/view/diamondsandrust"> Diamonds and Rust </a> and <a href="https://aliendaydreams.life"> Alien Daydreams</a>!</p>
-
-<!-- I'm a recent MS graduate from the University of Michigan studying Computer Science & Engineering with a background in biology. I am from Massachusetts, where I studied neuroscience and computer science at Boston University. I am currently working alongside the Probabilistic Machine Learning group at the University of Michigan working towards a method leveraging amortized variational inference to solve the problem of deep-space telescope image cataloging. I have a great interest in the latest developments in neuroscience pertaining to spatial navigation, memory and vision in general. I also 
-enjoy learning about novel probabalistic machine learning methods and their applications across a variety of domains. Big picture, my goal is to leverage my research and professional experience in 
-machine learning with my academic experience in a variety of data-processing softwares to improve ongoing work in translational medicine and our understanding of the human mind and body!
-    
-<h1> Research </h1>
-<h2> Laboratory of Computational Neurophysiology (2020 - 2023) </h2> 
-<p> - Honors Research project (undergraduate thesis) aimed to synthesize the neurophysiological basis of spatial maps distributed across cortical regions into a neurophysiologically-motivated simulation of an agent navigating a familiar environment in two-dimensional space. This project utilized Bayesian estimation for head direction, for instance </p>
-<p> - Presented work at annual Kilachand Honors College <a href="https://www.bu.edu/khc/keystone-on-tap-2021/"> Keystone on Tap </a> (2021) and <a href="https://www.youtube.com/watch?v=yIhbjlYBCJ4"> Kilachand Symposium </a> (2022). </p>
-<p> Successfully defended thesis in graduate-style defense in front of neuroscience faculty committee (slides <a href="https://docs.google.com/presentation/d/1DveeQi7VLeBsrq1IGilkHcuKzQvMJB74fzwgSJB8kS0/edit?usp=sharing" > here </a>). </p>
-<p> Manuscript currently under review for publication! </p>
-<p> Supervisor: Dr. Michael Hasselmo, Boston University </p>
-
-<h2> Laboratory of Neural Development & Intellectual Disorders (2018 - 2020) </h2> 
-<p> - Assisted Ph.D candidates with research using novel neurobiology and bioengineering techniques generally in mouse models of Down Syndrome. Techniques include tissue analysis, confocal microscopy, staining, PCR, DNA extraction, plasmid purification, etc. </p>
-<p> - Supervisor: Dr. Tarik Haydar, Children's National Hospital </p>
-
-<h1> Experience </h1>
-<h2> Probabalistic Machine Learning Group | University of Michigan (2023 - ) </h2>
-<p> The Bayesian Light Source Separator (BLISS) is a method for deblending and cataloging light sources. We utilize a novel variational inference technique building on top of amortized inference, variational auto-encoders, a decoder network to generate synthesized deep-space images given some distribution over the image parameters from an existing catalog and a wake-sleep algorithm. I contributed to the development of this amortized variational inference model trained on simulated multi-band images. Specifically, I expanded the encoding and generation of single-band deep-space astronomical images to multi-band, developed several generative mixture models for robustly modeling light source colors trained on flux data across surveys, made various optimizations to the encoder architecture, and more. Intensive experiemntation was performed on the model to evaluate and benchmark performance on customized simulated images for testing generality across the entire distribution of possible variational parameters.  </p>
-<p> My projects utilized several Python packages and rigorous documentation via Jupyter Notebooks of added features. Version history was maintained by Git and benchmarking was performed with Hydra. Added functionalities are currently being documented and composed into a research manuscript. </p>
-<p> Contact: Dr. Jeffrey Regier, University of Michigan </p>
-
-<h1> Languages </h1>
-<p> - English (fluent) </p>
-<p> - Gujarati (fluent, speaking) </p>
-
-<h1> Achievements </h1>
-<p> - Awarded Harold C. Case Scholarship offered to outstanding Boston University students in recognition of scholarly, extracurricular and research achievement. </p>
-<p> - As President of the Boston University Hindu Students Council, raised over $51,000 from the '21-'22 academic year and organized several in-person events with as many as 3,000 attendees at once in the greater Boston area. </p>
-<p> - Graduated Magna Cum Laude from Boston University with honors in neuroscience.</p> -->

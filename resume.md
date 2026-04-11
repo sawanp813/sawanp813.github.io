@@ -10,7 +10,6 @@ Last Updated: 3/27/2026
 <i class="fa fa-github"></i> <a href="http://github.com/sawanp813">sawanp813</a>
 |
 <a href="https://scholar.google.com/citations?user=RN_YFMUAAAAJ&hl=en&oi=sra"> Google Scholar </a>
-</div>
 
 ## Publications/Preprints
 __Multi-objective-guided generative design of mRNA with therapeutic properties__ Conceived idea and executed all experiments in project. <a href="https://openreview.net/forum?id=Jiv4B97NAn"> </a>
